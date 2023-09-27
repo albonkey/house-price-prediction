@@ -1,7 +1,7 @@
 # House Price Prediction
-Predicting prices for houses. 
+Predicting prices for houses. Class Project for `Introduction To Data Science`
 
-Class Project for `Introduction To Data Science`
+<img src="header.png" width=600 href="https://storyset.com/business" alt=""/>
 
 ## Getting Started
 1. Download the repo
