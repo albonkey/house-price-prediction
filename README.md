@@ -6,7 +6,7 @@ Predicting prices for houses. Class Project for `Introduction To Data Science`
 ## Getting Started
 1. Download the repo
 2. Open in editor
-3. Run Jupyter Notebook with `jupyter notebook`
+3. Install dependencies with: `pip3 install -r requirements.txt`
 4. Do your magic
 
 ## Members
